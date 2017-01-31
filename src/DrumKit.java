@@ -1,4 +1,3 @@
-package level1;
 // Copyright Wintriss Technical Schools 2013
 
 import java.applet.AudioClip;
