@@ -5,7 +5,7 @@ import javax.swing.JPanel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-JButton joke;
+// JButton joke;
 
 
 public class CluckleClicker implements ActionListener {
